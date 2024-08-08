@@ -12,6 +12,8 @@ import static com.jackson.apiclientsdk.utils.SignUtils.genSign;
 
 /**
  * 调用第三方接口的客户端
+ *
+ * @author jackson
  */
 public class ApiClient {
 
