@@ -5,6 +5,8 @@ import cn.hutool.crypto.digest.Digester;
 
 /**
  * 签名工具
+ *
+ * @author jackson
  */
 public class SignUtils {
 

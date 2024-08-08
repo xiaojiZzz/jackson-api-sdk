@@ -6,6 +6,8 @@ import java.io.Serializable;
 
 /**
  * 获取随机壁纸请求
+ *
+ * @author jackson
  */
 @Data
 public class RandomWallpaperRequest implements Serializable {

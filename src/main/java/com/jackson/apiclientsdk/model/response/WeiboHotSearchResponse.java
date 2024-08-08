@@ -7,6 +7,8 @@ import java.util.List;
 
 /**
  * 微博热搜查询响应
+ *
+ * @author jackson
  */
 @Data
 public class WeiboHotSearchResponse implements Serializable {

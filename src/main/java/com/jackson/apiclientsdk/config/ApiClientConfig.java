@@ -9,6 +9,8 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * 客户端配置类
+ *
+ * @author jackson
  */
 @Configuration
 @ConfigurationProperties("api.client")

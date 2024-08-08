@@ -2,6 +2,8 @@ package com.jackson.apiclientsdk.exception;
 
 /**
  * 状态码
+ *
+ * @author jackson
  */
 public enum StatusCode {
 

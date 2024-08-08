@@ -6,6 +6,8 @@ import java.io.Serializable;
 
 /**
  * 微博热搜
+ *
+ * @author jackson
  */
 @Data
 public class WeiboHotSearch implements Serializable {

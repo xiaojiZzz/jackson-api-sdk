@@ -2,6 +2,8 @@ package com.jackson.apiclientsdk.exception;
 
 /**
  * 自定义异常类
+ *
+ * @author jackson
  */
 public class ApiException extends Exception {
 
